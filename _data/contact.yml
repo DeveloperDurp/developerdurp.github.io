@@ -4,8 +4,9 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: links
+  icon: 'fa-solid fa-link'
+  url: 'https://links.durp.info'
 -
   type: email
   icon: 'fas fa-envelope'
